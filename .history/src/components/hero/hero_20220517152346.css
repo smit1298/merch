@@ -1,0 +1,18 @@
+.container-hero {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 64px 0px 96px 0;
+  gap: 32px;
+  width: 100vw;
+  /* heivght: 656px; */
+
+  background: #f9fafb;
+}
+.get-started > p:nth-child(1) {
+  color: #DBA90F;
+  background-color: #F1EBDA;
+  width: 60%;
+  border-radius: 10px; padding;
+}
