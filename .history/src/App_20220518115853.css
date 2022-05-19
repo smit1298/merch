@@ -1,0 +1,11 @@
+.hero {
+  background-color: #5086bc !important;
+}
+.trusted-brands {
+  display: flex;
+  overflow: hidden;
+  margin-left: 120px !important;
+}
+.trusted-brands > img:nth-child(5) {
+  display: none;
+    }

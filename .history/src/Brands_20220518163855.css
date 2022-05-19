@@ -1,0 +1,11 @@
+.brands > h6{
+background: #DBA90F;
+width: 576px;
+height: 24px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+}

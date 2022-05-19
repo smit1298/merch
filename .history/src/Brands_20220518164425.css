@@ -1,0 +1,39 @@
+.brands > h6{
+color: #DBA90F;
+width: 576px;
+height: 24px;
+font-family: 'inter' !important;
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+}
+.brands > h3{
+
+width: 533px;
+height: 108px;
+
+font-family: 'Campton';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 36px;
+/* or 129% */
+
+letter-spacing: -0.02em;
+
+/* Gray/900 */
+
+color: #101828;
+
+
+/* Inside auto layout */
+
+flex: none;
+order: 1;
+flex-grow: 0;
+}

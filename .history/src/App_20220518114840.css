@@ -1,0 +1,8 @@
+.hero {
+  background-color: #5086bc !important;
+}
+.trusted-brands {
+  display: flex;
+  overflow: hidden;
+  margin-right: 40px;
+}

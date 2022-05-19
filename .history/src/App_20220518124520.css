@@ -1,0 +1,9 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+.trusted-brands {
+    display: grid;
+    grid-template-columns: repeat(1fr, 6);
+    grid
+}

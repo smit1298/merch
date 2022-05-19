@@ -1,0 +1,13 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+.trusted-brands {
+  display: flex;
+  overflow-x: hidden;
+  margin-left: 120px !important;
+}
+
+.trusted-brands.div.img:nth-child(6) {
+  border: 1px solid red;
+}

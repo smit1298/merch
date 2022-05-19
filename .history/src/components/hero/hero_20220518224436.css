@@ -1,0 +1,185 @@
+* {
+  font-family: "Campton", sans-serif !important;
+}
+
+.container-hero {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 64px 0px 96px 0;
+  gap: 32px;
+  width: 100%;
+  background: #f9fafb;
+}
+
+/* get started left */
+.get-started {
+  margin-left: 112px;
+}
+
+.get-started > p:nth-child(1) {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 10px 4px 4px;
+  width: 345px;
+  height: 32px;
+  background: #f1ebda;
+  color: #dba90f;
+  border-radius: 16px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-size: 13px;
+  margin-top: 105px;
+}
+
+.what {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 10px;
+  width: 105px;
+  height: 24px;
+  background: #ffffff;
+  border-radius: 16px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-size: 13px;
+}
+.get-started > p:nth-child(3) {
+  width: 576px;
+  height: 60px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  color: #667085;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.produce {
+  width: 591px;
+  height: 174px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 58px;
+  letter-spacing: -0.02em;
+}
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .get-started {
+    margin-left: 10px;
+    width: 10;
+    display: flex;
+    flex-direction: column;
+    overflow-x: hidden;
+    margin-top: -100px;
+  }
+  .inline > p {
+    display: none;
+  }
+  .produce{
+  font-family: "Campton";
+    font-weight: 600;
+  font-size: 20px;
+  width: 300px;
+
+  }
+}
+
+/* // Small devices (landscape phones, less than 768px)
+@media (max-width: 767.98px) { ... }
+
+// Medium devices (tablets, less than 992px)
+@media (max-width: 991.98px) { ... }
+
+// Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { ... }
+
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width */
+
+/* // No media query necessary for xs breakpoint as it's effectively `@media (max-width: 0) { ... }` */
+/* @include media-breakpoint-down(md) { 
+  .get-started{
+    margin-left: 10px;
+    display: none;
+  }
+ } */
+
+/* 
+@include media-breakpoint-down(md) { ... }
+@include media-breakpoint-down(lg) { ... }
+@include media-breakpoint-down(xl) { ... }
+@include media-breakpoint-down(xxl) { ... }  */
+
+/* // Example: Style from medium breakpoint and down */
+/* @include media-breakpoint-down(md) {
+  .custom-class {
+    display: block;
+  }
+}
+
+
+/* get started right */
+.products {
+  margin-right: 112px;
+}
+
+.top-img {
+  position: relative;
+}
+
+.top-img > img:nth-child(1) {
+  position: absolute;
+  width: 225px;
+  height: 196px;
+  left: calc(50% - 225px / 2 - 120.5px);
+  top: 44px;
+}
+
+.top-img > img:nth-child(2) {
+  position: absolute;
+  width: 230px;
+  height: 240px;
+  left: calc(50% - 230px / 2 + 123px);
+  top: 0px;
+}
+
+.bottom-img {
+  position: relative;
+}
+
+.bottom-img > img:nth-child(1) {
+  position: absolute;
+  width: 192px;
+  height: 177px;
+  left: calc(50% - 192px / 2 - 192px);
+  top: 256px;
+}
+.bottom-img > img:nth-child(2) {
+  position: absolute;
+  width: 160px;
+  height: 232px;
+  left: calc(50% - 160px / 2);
+  top: 256px;
+}
+.bottom-img > img:nth-child(3) {
+  position: absolute;
+  width: 192px;
+  height: 128px;
+  left: calc(50% - 192px / 2 + 192px);
+  top: 256px;
+}

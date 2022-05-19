@@ -1,0 +1,24 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+#join {
+  background: #f9fafb;
+  font-family: "Campton", sans-serif !important;
+  color: #667085;
+}
+
+.trusted-brands {
+  display: flex;
+  width: 100%;
+}
+
+.grey {
+  width: calc(100% / 6);
+}
+
+.grey:nth-child(6) img {
+  width: 140px;
+}
+
+/* general bur */

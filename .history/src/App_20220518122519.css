@@ -1,0 +1,14 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+.trusted-brands {
+  display: flex;
+  overflow-x: hidden;
+  margin-left: 120px !important;
+}
+
+.grey .Thanos:nth-child(2) {
+    
+  border: 1px solid red;
+}

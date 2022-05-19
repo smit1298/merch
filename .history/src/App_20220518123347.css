@@ -1,0 +1,15 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+.trusted-brands {
+  display: flex;
+  overflow-x: hidden;
+  justify-content: space-around;
+  align-items: flex-end;
+  width: ;
+}
+
+.grey {
+  width: auto;
+}

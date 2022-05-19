@@ -1,0 +1,16 @@
+.hero {
+  background-color: #5086bc !important;
+}
+
+.trusted-brands {
+  display: flex;
+  width: 100%;
+}
+
+.grey {
+  width: calc(80% / );
+}
+
+.grey:nth-child(6) img {
+  width: 140px;
+}
