@@ -1,0 +1,4 @@
+.avatar img:nth-child(2) {
+  margin-left: -25px;
+  z-index: 1;
+}
