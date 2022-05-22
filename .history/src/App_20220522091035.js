@@ -8,8 +8,7 @@ import Brands from "./Brands";
 import Features from "./components/features/Features";
 import Chateau from "./components/chateau/Chateau";
 import Benefits from "./components/benefits/Benefits";
-import Question from "./components/questions/Question";
-import Newsletter from "./components/newsletter/Newsletter"
+import Question from "./components/questions/Question"
 // import { Container, Row, Col } from "react-bootstrap";
 
 function App() {
@@ -30,7 +29,7 @@ function App() {
       <Chateau />
       <Benefits />
       <Question/>
-      <Newsletter />
+      <Newsletter
     </div>
   );
 }

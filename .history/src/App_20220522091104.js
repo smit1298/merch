@@ -9,7 +9,7 @@ import Features from "./components/features/Features";
 import Chateau from "./components/chateau/Chateau";
 import Benefits from "./components/benefits/Benefits";
 import Question from "./components/questions/Question";
-import Newsletter from "./components/newsletter/Newsletter"
+import Newsletter from "./components/"
 // import { Container, Row, Col } from "react-bootstrap";
 
 function App() {

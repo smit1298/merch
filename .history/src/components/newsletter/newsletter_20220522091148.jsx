@@ -10,7 +10,7 @@ const SubscribeForm = () => {
       <Row>
         <Col>
           <div>
-            <h5>Join our newsletter</h5>
+            <h5>Join our newsletter</h6>
           </div>
           <div>
             <p>

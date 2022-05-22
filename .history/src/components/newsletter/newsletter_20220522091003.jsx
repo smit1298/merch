@@ -10,13 +10,9 @@ const SubscribeForm = () => {
       <Row>
         <Col>
           <div>
-            <h5>Join our newsletter</h5>
+            <h6>Join our newsletter</h6>
           </div>
-          <div>
-            <p>
-              Sign up for our newsletter and get 10% off your next purchase.
-            </p>
-          </div>
+          div
         </Col>
         <Col>
           <form>
