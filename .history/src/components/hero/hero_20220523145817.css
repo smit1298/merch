@@ -1,0 +1,163 @@
+* {
+  font-family: "Campton", sans-serif !important;
+}
+
+.left {
+  padding-left: 7rem;
+  padding-top: 7rem;
+}
+
+.one {
+  padding-bottom: 1.5rem;
+}
+.one-paragraph {
+  display: flex;
+  width: 21.562rem;
+  width: fit-content;
+  height: 2rem;
+  background: antiquewhite;
+  border-radius: 1rem;
+  color: #dba90f;
+  text-align: center;
+  padding: 0.25rem 0.625rem 0.25rem 0.25rem;
+  font-size: 0.85rem;
+  font-weight: 500;
+}
+
+.one-paragraph > .first-para {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 6.56rem;
+  height: 1.5rem;
+  padding: 0.125rem 0.625rem;
+  background-color: white;
+  border-radius: 1rem;
+}
+
+.first-para > .what {
+  height: 1.25rem;
+  width: 5.3125rem;
+}
+
+.first-para p {
+  padding-top: 0.625rem;
+}
+
+.second-para > .get {
+  height: 1.25rem;
+}
+.second-para p {
+  padding-top: 0.25rem;
+}
+
+.produce {
+  width: 36rem;
+  height: 10.87rem;
+  font-style: normal;
+  font-weight: 600;
+  font-size: 2.5rem;
+  letter-spacing: -0.02em;
+  line-height: 3.625rem;
+}
+
+.three p {
+  width: 36rem;
+  height: 3.75rem;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 1.25rem;
+}
+.three {
+  padding-bottom: 3rem;
+}
+.left button {
+  width: 9.75rem;
+  borr
+}
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  /* .left {
+  padding-left: 5%;
+  padding-right: 5%;
+}
+  .one {
+    width: 100%;
+    font-size: 10px;
+    padding-top: 2%;
+    padding-bottom: 2%;
+ }
+.one > .what{
+  width: 33%;
+  padding-top: 3%;
+  margin-top: 4%;
+}
+.one > .get{
+  padding-top: 7%;
+  font-size: 9px;
+} */
+  .products {
+    display: none;
+  }
+}
+
+/* // Small devices (landscape phones, less than 768px) */
+
+/* // Medium devices (tablets, less than 992px) */
+
+/* // Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { ... }
+
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width */
+
+/* // No media query necessary for xs breakpoint as it's effectively `@media (max-width: 0) { ... }` */
+/* @include media-breakpoint-down(md) { 
+  .get-started{
+    margin-left: 10px;
+    display: none;
+  }
+ } */
+
+/* GET STARTED RIGHT */
+/* .right {
+  padding-right: 15%;
+}
+
+.top-first > img {
+  margin-left: 25%;
+  margin-top: 15%;
+}
+
+.bottom-first {
+  margin-left: 3%;
+  margin-right: 5px;
+}
+
+.bottom-second {
+  margin-left: -3%;
+}
+.bottom-third {
+  margin-left: -8%;
+  margin-right: 0;
+} */
+
+/* // X-Small devices (portrait phones, less than 576px) */
+/* @media (max-width: 575.98px) {
+  .top-img {
+    display: none;
+  }
+  .top-img img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+ 
+  .bottom-img img {
+    max-width: 100px;
+    max-height: 100px;
+    display: none;
+  }
+} */

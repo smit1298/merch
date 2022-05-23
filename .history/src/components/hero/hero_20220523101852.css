@@ -1,0 +1,294 @@
+* {
+  font-family: "Campton", sans-serif !important;
+}
+
+.container-hero {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  padding: 64px 0px 96px 0;
+  gap: 32px;
+  width: 100%;
+  background: #f9fafb;
+}
+
+.products,
+.get-started {
+  margin: 0 0 !important;
+  /* padding: 0 5%; */
+}
+
+.left {
+  padding-left: 15%;
+}
+
+.left > p:nth-child(1) {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  padding: 4px 10px 4px 4px;
+  width: 345px;
+  height: 32px;
+  background: #f1ebda;
+  color: #dba90f;
+  border-radius: 16px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-size: 13px;
+  margin-top: 105px;
+}
+
+.what {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  padding: 2px 10px;
+  width: 105px;
+  height: 24px;
+  background: #ffffff;
+  border-radius: 16px;
+  flex: none;
+  order: 0;
+  flex-grow: 0;
+  font-size: 13px;
+}
+.get-started > p:nth-child(3) {
+  width: 576px;
+  height: 60px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 300;
+  font-size: 20px;
+  line-height: 30px;
+  color: #667085;
+  flex: none;
+  order: 1;
+  flex-grow: 0;
+}
+
+.produce {
+  width: 90%;
+  height: 174px;
+  font-family: "Campton";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 58px;
+  letter-spacing: -0.02em;
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+  .left {
+    padding: 5%;
+    margin-top: -150px;
+    width: 100%;
+  }
+
+  .left > p:nth-child(1) {
+    display: flex;
+    width: 250px;
+    border-radius: 16px;
+    font-size: 9px;
+    font-weight: 600;
+  }
+
+  .what {
+    width: 84px;
+    font-weight: 600;
+    font-size: 10px;
+  }
+
+  .produce {
+    width: 100%;
+    font-size: 25px;
+    line-height: 40px;
+  }
+  .get-started > p:nth-child(3) {
+    width: 280px;
+    margin-top: -10px;
+    margin-bottom: 60px;
+  }
+  .products {
+    display: none;
+  }
+
+  .design {
+    line-height: 28px;
+    font-weight: 400;
+    font-size: 18px;
+    width: 100%;
+  }
+}
+
+@media (min-width: 381.98px) {
+  .produce {
+    margin-bottom: 2px;
+    padding-bottom: 0px;
+    font-size: 30px;
+    width: 100%;
+  }
+  .design {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+    width: 100%;
+  }
+}
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 767.98px) {
+  .get-started {
+    margin: 10px;
+    margin-top: -150px;
+    width: 10px;
+  }
+
+  .get-started > p:nth-child(1) {
+    display: flex;
+    width: 275px;
+    border-radius: 16px;
+    font-size: 10px;
+    font-weight: 600;
+  }
+
+  .what {
+    width: 90px;
+    font-weight: 600;
+    font-size: 10px;
+  }
+
+  .produce {
+    width: 280px;
+    font-size: 30px;
+    font-weight: 700;
+  }
+  .get-started > p:nth-child(3) {
+    width: 280px;
+  }
+  .products {
+    display: none;
+  }
+}
+
+/* // Medium devices (tablets, less than 992px) */
+@media (max-width: 991.98px) {
+  .left {
+    border: 1px solid blue;
+    padding-left: 9% !important;
+    padding-top: -200%;
+    margin-top: -35%;
+  }
+  .what {
+    width: 25%;
+    font-weight: 800;
+    font-size: 8px;
+  }
+  .left > p:nth-child(1) {
+    width: 95%;
+    height: 32px;
+  }
+  .design {
+    padding-top: 20%;
+    padding-bottom: 5%;
+  }
+
+  .right {
+    padding-right: 15%;
+    width: 100%;
+    border: 1px solid red;
+    padding-top: -200%;
+    margin-top: -35%;
+  }
+
+  .top-img {
+    padding-top: 27%;
+  }
+  .top-first {
+    width: 40%;
+  }
+  .top-second {
+    width: 40%;
+  }
+  .top-first > img {
+    width: 110%;
+    height: 100%;
+    margin-left: 20%;
+  }
+  .top-second > img {
+    width: 100%;
+    height: 100%;
+  }
+  /*
+  .bottom-first {
+    margin-left: 3%;
+    margin-right: 5px;
+  }
+
+  .bottom-second {
+    margin-left: -3%;
+  }
+  .bottom-third {
+    margin-left: -8%;
+    margin-right: 0;
+  } */
+}
+
+/* // Large devices (desktops, less than 1200px)
+@media (max-width: 1199.98px) { ... }
+
+// X-Large devices (large desktops, less than 1400px)
+@media (max-width: 1399.98px) { ... }
+
+// XX-Large devices (larger desktops)
+// No media query since the xxl breakpoint has no upper bound on its width */
+
+/* // No media query necessary for xs breakpoint as it's effectively `@media (max-width: 0) { ... }` */
+/* @include media-breakpoint-down(md) { 
+  .get-started{
+    margin-left: 10px;
+    display: none;
+  }
+ } */
+
+/* GET STARTED RIGHT */
+.right {
+  padding-right: 15%;
+}
+
+.top-first > img {
+  margin-left: 25%;
+  margin-top: 15%;
+}
+
+.bottom-first {
+  margin-left: 3%;
+  margin-right: 5px;
+}
+
+.bottom-second {
+  margin-left: -3%;
+  /* margin-right: 8%; */
+}
+.bottom-third {
+  margin-left: -8%;
+  margin-right: 0;
+}
+
+/* // X-Small devices (portrait phones, less than 576px) */
+/* @media (max-width: 575.98px) {
+  .top-img {
+    display: none;
+  }
+  .top-img img {
+    max-width: 100px;
+    max-height: 100px;
+  }
+ 
+  .bottom-img img {
+    max-width: 100px;
+    max-height: 100px;
+    display: none;
+  }
+} */
