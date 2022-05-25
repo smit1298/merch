@@ -1,0 +1,130 @@
+#join {
+  background: #f9fafb;
+  font-family: "Campton", sans-serif !important;
+  border: 4px solid red;
+  height: 13.25rem;
+}
+
+#join > h6 {
+  font-weight: 400;
+  line-height: 1.5rem;
+  font-size: 1rem;
+  text-align: center !important;
+  color: #667085;
+  padding: 0 7.3125rem;
+  padding-bottom: 2.625rem;
+}
+
+.trusted-brands {
+  display: flex;
+  /* width: 100%; */
+  border: 4px solid blue;
+  width: 90.625rem;
+}
+
+.trusted-brands >img:nth-child(1){
+  width: 3.75rem;
+  height: 3.75rem;
+  margin-right: 7.85rem;
+  margin-bottom: 6rem;
+  display:  none ;
+}
+
+.grey-image .image >img:nth-child(2) {
+  width: 5.89125rem;
+  height: 3.125rem;
+  margin-right: 7.85rem;
+  margin-bottom: 6rem;
+  display: none;
+}
+
+.grey:nth-child(3) img {
+  width: 6.5125rem;
+  height: 2.5rem;
+  margin-right: 7.85rem;
+  margin-bottom: 6rem;
+}
+
+.grey:nth-child(4) img {
+  width: 4.1118rem;
+  height: 2.5rem;
+  margin-right: 7.85rem;
+  margin-bottom: 6rem;
+}
+
+.grey:nth-child(5) img {
+  width: 4.068rem;
+  height: 2.5rem;
+  margin-right: 7.85rem;
+  margin-bottom: 6rem;
+}
+
+.grey:nth-child(6) img {
+  width: 140px;
+  height: 3.75rem;
+  margin-right: 0;
+  margin-bottom: 6rem;
+}
+
+
+
+/* // Small devices (landscape phones, less than 768px) */
+@media (max-width: 991.98px) {
+  .left {
+    padding-left: 0.9375rem;
+    padding-top: 1.9375rem;
+  }
+  .one-paragraph {
+    display: flex;
+    width: fit-content;
+    height: 1.875rem;
+    gap: 0.5rem;
+    font-style: 0.75rem;
+  }
+  .one-paragraph > .first-para {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 5.5625rem;
+    height: 1.375rem;
+    padding: 0.25rem;
+    border-radius: 1rem;
+  }
+  .first-para p {
+    padding-top: 0.125rem 0.5rem;
+    width: 4.5625rem;
+    height: 1.125rem;
+    font-size: 0.75rem;
+    text-align: center;
+  }
+  .one-paragraph > .second-para {
+    width: 10.125rem;
+    height: 1.125rem;
+    font-size: 0.6rem;
+    font-weight: 400;
+  }
+  .produce {
+    padding-top: 1.9375rem;
+    width: fit-content;
+    height: 10rem;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 2rem;
+    letter-spacing: -0.02em;
+    line-height: 2.5rem;
+  }
+  .three p {
+    width: fit-content;
+    padding-top: 3rem;
+    height: 7rem;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 1.125rem;
+    line-height: 1.75rem;
+    padding-bottom: 2.75rem;
+  }
+
+  .products {
+    display: none;
+  }
+}

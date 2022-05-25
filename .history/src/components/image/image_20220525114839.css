@@ -1,0 +1,31 @@
+#trusted-brands {
+  background: #f9fafb;
+}
+.trusted-text {
+  color: #667085;
+  font-size: 1 rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  padding: 0 7.3125rem;
+}
+#allimages img {
+  padding-bottom: 6rem;
+  padding-top: 3.5rem;
+  padding-left: 7.3125rem;
+}
+
+/* // Small devices (landscape phones, less than 557px) */
+@media (max-width: 556.98px) {
+  #trusted-brands{
+      width: 23.4375rem;
+      padding: 4rem 0;
+      margin: 0;
+      overflow: hidden;
+  }
+  .trusted-text >h6{
+     width: 10.4375rem; 
+     font-size: 1rem;
+     padding: 0;
+     text-align: center;
+  }
+}
