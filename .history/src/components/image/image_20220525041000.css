@@ -1,0 +1,22 @@
+.grey {
+  width: 23.4375rem ;
+}
+
+#join {
+  background: #f9fafb;
+  font-family: "Campton", sans-serif !important;
+  color: #667085;
+}
+
+#join h6
+
+.trusted-brands {
+  display: flex;
+  width: 100%;
+}
+
+
+
+.grey:nth-child(6) img {
+  width: 140px;
+}

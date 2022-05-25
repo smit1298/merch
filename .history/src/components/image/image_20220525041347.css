@@ -1,0 +1,29 @@
+.grey {
+  width: 23.4375rem ;
+}
+
+#join {
+  background: #f9fafb;
+  font-family: "Campton", sans-serif !important;
+  color: #667085;
+}
+
+#join h6{
+    width: 21.4375rem;
+    height: 1.5rem;
+    font-weight: 400;
+    line-height: 1.5rem;
+    font-size: 1rem;
+    tac
+}
+
+.trusted-brands {
+  display: flex;
+  width: 100%;
+}
+
+
+
+.grey:nth-child(6) img {
+  width: 140px;
+}

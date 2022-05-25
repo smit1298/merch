@@ -1,0 +1,17 @@
+#join {
+  background: #f9fafb;
+  font-family: "Campton", sans-serif !important;
+  color: #667085;
+}
+
+.trusted-brands {
+  display: flex;
+width: ;}
+
+.grey {
+  width: fit-content                            ;
+}
+
+.grey:nth-child(6) img {
+  width: 140px;
+}
