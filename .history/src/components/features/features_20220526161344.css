@@ -1,0 +1,23 @@
+/* // Small devices (landscape phones, less than 557px) */
+.top > h4 {
+  color: #dba90f;
+  font-size: 1rem;
+  font-weight: 600;
+  padding-bottom: 0.75rem;
+}
+
+.top > h3 {
+  font-size: 1.75rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+  line-height: 2.25rem;
+  color: #101828;
+  padding-bottom: 1.25re;
+}
+.top > p{
+
+}
+
+
+@media (max-width: 556.98px) {
+}
