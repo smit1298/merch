@@ -13,6 +13,7 @@
 }
 
 #allimages {
+  border: 2px solid red;
   width: 90.625rem;
 }
 #allimages img {
@@ -31,22 +32,5 @@
 
 /* // Small devices (landscape phones, less than 557px) */
 @media (max-width: 556.98px) {
-  .grey-image:nth-of-type(6){
-    order: 1;
-  }
-  .grey-image:nth-of-type(5){
-    order: 2;
-  }
-  .grey-image:nth-of-type(4){
-    order: 3;
-  }
-  .grey-image:nth-of-type(3){
-    order: 4;
-  }
-  .grey-image:nth-of-type(1){
-    order: 5;
-  }
-  .grey-image:nth-of-type(2){
-    order: 6;
-  }
+  .grey-image:nth-of-type(6)
 }

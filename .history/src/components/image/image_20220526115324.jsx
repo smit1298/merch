@@ -29,7 +29,7 @@ function image() {
             <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
               <img src="./Assets/images/comerico.jpg" alt="comerico" />
             </div>
-            <div className="grey-image settle col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image sttle col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
               <img src="./Assets/images/settle2.jpg" alt="settle" />
             </div>
           </div>

@@ -13,23 +13,23 @@ function image() {
           </Col>
         </Row>
         <Row id="allimages">
-          <div className="grey-container row d-flex ps-4 ms-3">
-            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+          <div className="grey-container d-flex      ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/sportinglagos.jpg" alt="sporting" />
             </div>
-            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/chateau.jpg" alt="chateau" />
             </div>
-            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/atco.jpg" alt="atco" />
             </div>
-            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/robethson.jpg" alt="robethson" />
             </div>
-            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/comerico.jpg" alt="comerico" />
             </div>
-            <div className="grey-image settle col col-lg-2 col-sm-6 col-md-3 col-xs-6 ">
+            <div className="grey-image col col-lg-2 col-sm-6 col-md-3 ">
               <img src="./Assets/images/settle2.jpg" alt="settle" />
             </div>
           </div>

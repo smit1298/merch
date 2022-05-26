@@ -1,0 +1,53 @@
+#trusted-brands {
+  background: #f9fafb;
+}
+.trusted-center{
+    text-align: center;
+}
+.trusted-text {
+  color: #667085;
+  font-size: 1 rem;
+  line-height: 1.5rem;
+  font-weight: 400;
+  /* padding: 0 7.3125rem; */
+}
+
+#allimages{
+  border: 2px solid red;
+  width: 90.625rem;
+}
+#allimages img {
+  padding-bottom: 6rem;
+  padding-top: 3.5rem;
+  padding-left: 1.1125rem;
+  /* display: none; */
+}
+#allimages:nth-child(6){
+  padding-right: rem;
+}
+
+.grey-image{
+  padding-left: 0.5375rem;
+  /* padding-right: 7.3125rem; */
+}
+
+.grey-image img{
+  padding-left: 3.2rem;
+}
+
+/* // Small devices (landscape phones, less than 557px) */
+@media (max-width: 556.98px) {
+  /* #trusted-brands{
+      width: 19.7rem;
+      padding: 4rem 0;
+      margin: 0;
+      border: 1px solid red;
+  }
+  .trusted-text >h6{
+     width: 10.4375rem; 
+     font-size: 1rem;
+     padding: 0;
+     text-align: center;
+  } */
+
+}

@@ -32,19 +32,19 @@
 /* // Small devices (landscape phones, less than 557px) */
 @media (max-width: 556.98px) {
   .grey-image:nth-of-type(6){
-    order: 1;
+    order: ;
   }
   .grey-image:nth-of-type(5){
-    order: 2;
+    order: 6;
   }
   .grey-image:nth-of-type(4){
-    order: 3;
+    order: 6;
   }
   .grey-image:nth-of-type(3){
-    order: 4;
+    order: 6;
   }
   .grey-image:nth-of-type(1){
-    order: 5;
+    order: 6;
   }
   .grey-image:nth-of-type(2){
     order: 6;
