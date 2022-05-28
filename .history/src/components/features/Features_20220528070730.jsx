@@ -45,14 +45,14 @@ function features() {
       </Row>
 
       <Row className=" bottom plattform d-flex">
-        <Col>
+        <Col className="second">
           <img
             className="imgCont2"
             src="./Assets/images/plattform.gif"
             alt="plattform"
           />
         </Col>
-        <Col className="second">
+        <Col>
           <Details
             Image="./Assets/icons/integration.png"
             name="plattform integration"
@@ -68,7 +68,7 @@ function features() {
       </Row>
 
       <Row className="bottom domain d-flex">
-        <Col className="third">
+        <Col cl>
           <Details
             Image="./Assets/icons/Domain.png"
             name="custom domain"

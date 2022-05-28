@@ -52,7 +52,7 @@ function features() {
             alt="plattform"
           />
         </Col>
-        <Col className="second">
+        <Col>
           <Details
             Image="./Assets/icons/integration.png"
             name="plattform integration"

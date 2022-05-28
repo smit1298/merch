@@ -22,7 +22,7 @@ function features() {
       </Row>
 
       <Row className="bottom shipping d-flex">
-        <Col className="first">
+        <Col className="">
           <Details
             Image="./Assets/icons/shipping.png"
             name="Free shipping"
@@ -52,7 +52,7 @@ function features() {
             alt="plattform"
           />
         </Col>
-        <Col className="second">
+        <Col>
           <Details
             Image="./Assets/icons/integration.png"
             name="plattform integration"
@@ -68,7 +68,7 @@ function features() {
       </Row>
 
       <Row className="bottom domain d-flex">
-        <Col className="third">
+        <Col>
           <Details
             Image="./Assets/icons/Domain.png"
             name="custom domain"

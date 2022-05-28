@@ -73,7 +73,6 @@
   order: 1;
   flex-grow: 0;
   border: 2px solid burlywood;
-  margin-left: 4.1875rem;
 }
 .imgCont2 {
   width: 576px;
@@ -90,11 +89,8 @@
   order: 1;
   flex-grow: 0;
   border: 2px solid burlywood;
-  margin-left: 4.1875rem;
 }
-.second {
-  padding-left: 4.1875rem;
-}
+.second
 
 /* Small devices (landscape phones, less than 557px) */
 @media (max-width: 556.98px) {
@@ -182,6 +178,7 @@
     margin-top: -1rem;
     padding-top: 1rem;
   }
+
 
   .imgCont1 {
     width: 18.5rem;

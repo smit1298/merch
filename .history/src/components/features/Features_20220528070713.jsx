@@ -52,7 +52,7 @@ function features() {
             alt="plattform"
           />
         </Col>
-        <Col className="second">
+        <Col>
           <Details
             Image="./Assets/icons/integration.png"
             name="plattform integration"
@@ -68,7 +68,7 @@ function features() {
       </Row>
 
       <Row className="bottom domain d-flex">
-        <Col className="third">
+        <Col>
           <Details
             Image="./Assets/icons/Domain.png"
             name="custom domain"
