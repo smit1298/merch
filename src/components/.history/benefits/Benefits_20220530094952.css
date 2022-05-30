@@ -1,0 +1,17 @@
+.feature-cont{
+    width: 26rem;
+    /* display: none; */
+    border: 1px solid green;
+}
+
+.feature-cont h3{
+    margin-left: -5rem;
+}
+
+.feature-cont p{
+    margin-left: -5rem;
+}
+
+.feature-cont ul{
+    margin-left: -5rem;
+}

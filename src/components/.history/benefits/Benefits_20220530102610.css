@@ -1,0 +1,29 @@
+.benefit{
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+
+}
+.benefit h6{
+    color: #DBA90F;
+}
+.benefit p{
+    color: #667085;
+}
+.benefit-cont{
+    width: 26rem;
+    border: 1px solid green;
+    margin-bottom: 1.5rem;text-align: center;
+}
+
+.benefit-cont h3{
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.benefit-cont p{
+    margin-left: -1 rem;
+    width: 24rem;
+    font-size: 1rem;
+    font-weight: 300;
+    color: #667085;
+}
