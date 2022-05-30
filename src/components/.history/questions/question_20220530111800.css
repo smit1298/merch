@@ -1,0 +1,18 @@
+/* .avatar img:nth-child(2) {
+  margin-left: -25px;
+}
+.avatar img:nth-child(3) {
+  margin-left: -25px;
+}
+.avatar img:nth-child(4) {
+  margin-left: -25px;
+} */
+.card-header {
+  background-color: #fff !important;
+  border-bottom: 1px solid #EAECF0
+ !important;
+}
+
+.card {
+  border: #fff !important;
+}

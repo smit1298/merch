@@ -1,0 +1,21 @@
+/* .avatar img:nth-child(2) {
+  margin-left: -25px;
+}
+.avatar img:nth-child(3) {
+  margin-left: -25px;
+}
+.avatar img:nth-child(4) {
+  margin-left: -25px;
+} */
+.question{
+  width: 48rem !important;
+  padding-left: 10.03125rem;
+}
+.card-header {
+  background-color: #fff !important;
+  border-bottom: 2px solid #eaecf0 !important;
+}
+
+.card {
+  border: #fff !important;
+}

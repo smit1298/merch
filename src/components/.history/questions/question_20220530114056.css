@@ -1,0 +1,49 @@
+
+.question {
+  padding-left: 15.03125rem;
+}
+.card {
+  width: 48rem !important;
+  border: #fff !important;
+  margin-bottom: 2rem;
+}
+.card-header {
+  background-color: #fff !important;
+  border-bottom: 2px solid #eaecf0 !important;
+}
+
+
+
+/* avatar */
+.avatar img:nth-child(1) {
+
+/* Inside auto layout */
+
+flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -25px;
+z-index: 3;
+
+}
+.avatar img:nth-child(2) {
+  flex: none;
+order: 1;
+flex-grow: 0;
+margin: 0px -25px;
+z-index: 2;
+}
+.avatar img:nth-child(3) {
+    flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -25px;
+z-index: 1;
+}
+.avatar img:nth-child(4) {
+ flex: none;
+order: 0;
+flex-grow: 0;
+margin: 0px -25px;
+z-index: 0;
+}

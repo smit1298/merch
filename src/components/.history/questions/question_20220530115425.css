@@ -1,0 +1,38 @@
+.question {
+  padding-left: 15.03125rem;
+}
+.card {
+  width: 48rem !important;
+  border: #fff !important;
+  margin-bottom: 4rem;
+}
+.card-header {
+  background-color: #fff !important;
+  border-bottom: 2px solid #eaecf0 !important;
+}
+
+/* avatar */
+.avatar {
+  padding-top: 4rem;
+  padding-bottom: 2rem;
+}
+/* .avatar h3{} */
+.avatar-images img:nth-child(1) {
+  z-index: 4 !important;
+  margin-left: -25px;
+}
+.avatar img:nth-child(2) {
+  z-index: 5 !important;
+  margin-left: -25px;
+}
+.avatar img:nth-child(3) {
+  z-index: 6 !important;
+  margin-left: -25px;
+}
+.avatar img:nth-child(4) {
+  z-index: 7 !important;
+  margin-left: -25px;
+}
+.questions h3 {
+  font-size: 1.25rem;
+}

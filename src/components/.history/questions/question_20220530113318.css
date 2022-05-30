@@ -1,0 +1,33 @@
+
+.question {
+  padding-left: 15.03125rem;
+}
+.card {
+  width: 48rem !important;
+  border: #fff !important;
+  
+}
+.card-header {
+  background-color: #fff !important;
+  border-bottom: 2px solid #eaecf0 !important;
+}
+
+
+
+/* avatar */
+.avatar img:nth-child(1) {
+  z-index: 4;
+  margin-left: -25px;
+}
+.avatar img:nth-child(2) {
+  z-index: 5;
+  margin-left: -25px;
+}
+.avatar img:nth-child(3) {
+  z-index: 6;
+  margin-left: -25px;
+}
+.avatar img:nth-child(4) {
+  z-index: 7;
+  margin-left: -25px;
+}
