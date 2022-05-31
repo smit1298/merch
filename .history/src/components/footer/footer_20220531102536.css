@@ -1,0 +1,47 @@
+.footer {
+  background-color: #f9fafb;
+  padding-top: 4rem;
+  border: 2px solid red;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.text-center {
+  margin: 0;
+  padding-bottom: 100px;
+}
+.text-center img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.footlink a {
+  color: #667085;
+  margin-left: 2rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.rights {
+position: absolute;
+top: 150px; 
+width: 19rem; 
+}
+
+/* 
+
+
+.terms {
+  padding-right: 9.3125rem;
+}
+.terms a {
+  text-decoration: none;
+  color: #667085;
+  margin-left: 2rem;
+}*/
+
+@media (max-width: 575.98px) {
+  
+}

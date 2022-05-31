@@ -1,0 +1,77 @@
+.footer {
+  background-color: #f9fafb;
+  padding-top: 4rem;
+  border: 2px solid red;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  position: relative;
+}
+.text-center {
+  margin: 0;
+  padding-bottom: 100px;
+}
+.text-center img {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+.footlink a {
+  color: #667085;
+  margin-left: 2rem;
+  text-decoration: none;
+  font-size: 1rem;
+  font-weight: 300;
+}
+
+.rights {
+  padding-left: 7.3125rem;
+}
+
+/* 
+
+
+.terms {
+  padding-right: 9.3125rem;
+}
+.terms a {
+  text-decoration: none;
+  color: #667085;
+  margin-left: 2rem;
+}*/
+
+@media (max-width: 575.98px) {
+  .footer {
+    position: relative;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+  }
+
+  .image {
+    position: absolute;
+    left: 20px;
+    top: 30px;
+  }
+
+  .footlink a:nth-child(1) {
+    position: absolute;
+    left: 2px;
+    top: 150px;
+  }
+  .footlink a:nth-child(2) {
+    position: absolute;
+    left: 150px;
+    top: 150px;
+  }
+  .footlink a:nth-child(3) {
+    position: absolute;
+    left: 2px;
+    top: 200px;
+  }
+  .footlink a:nth-child(4) {
+    position: absolute;
+    left: 150px;
+    top: 200px;
+  }
+}

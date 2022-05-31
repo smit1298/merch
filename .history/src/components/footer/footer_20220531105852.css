@@ -1,0 +1,55 @@
+.footer {
+  background-color: #76abe0;
+  position: relative;
+  padding-bottom: 9rem;
+}
+.footlink{
+  padding-top: 30rem;
+}
+
+
+
+@media (max-width: 575.98px) {
+  /* .footer{
+    width: 20rem;
+  }
+  .image {
+  position: absolute;
+  top: 2rem;
+  left: 1.5rem;
+} */
+/* .footlink {
+  position: absolute;
+  top: 8rem;
+}
+.links a:nth-child(1) {
+  position: absolute;
+  text-decoration: none;
+  top: 1rem;
+  left: 1rem;
+}
+.links a:nth-child(2) {
+  position: absolute;
+  text-decoration: none;
+  top: 1rem;
+  left: 10rem;
+}
+.links a:nth-child(3) {
+  position: absolute;
+  text-decoration: none;
+  top: 3rem;
+  left: 1rem;
+}
+.links a:nth-child(4) {
+  position: absolute;
+  text-decoration: none;
+  top: 3rem;
+  left: 10rem;
+}
+.rights{
+  display: none;
+}
+.terms{
+  display: none;
+} */
+}

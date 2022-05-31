@@ -1,0 +1,22 @@
+.footer {
+  background-color: #76abe0;
+  position: relative;
+  padding-bottom: 9rem;
+}
+
+.image {
+  position: absolute;
+  top: 2rem;
+  left: 1.5rem;
+}
+.footlink{
+  position: absolute;
+  top: 8rem;
+}
+.links a:nth-child(1){
+  
+  text-decoration: none;
+}
+
+@media (max-width: 575.98px) {
+}

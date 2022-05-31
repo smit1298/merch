@@ -1,0 +1,18 @@
+.footer {
+  background-color: #f9fafb;
+  position: relative;
+  padding-bottom: 4rem;
+}
+
+.image {
+  position: absolute;
+  top: 2rem;
+  left: 1.5rem;
+}
+.footlink{
+  position: absolute;
+  top: ;
+}
+
+@media (max-width: 575.98px) {
+}

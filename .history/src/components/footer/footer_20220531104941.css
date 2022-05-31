@@ -1,0 +1,42 @@
+.footer {
+  background-color: #76abe0;
+  position: relative;
+  padding-bottom: 9rem;
+}
+
+.image {
+  position: absolute;
+  top: 2rem;
+  left: 1.5rem;
+}
+.footlink {
+  position: absolute;
+  top: 8rem;
+}
+.links a:nth-child(1) {
+  position: absolute;
+  text-decoration: none;
+  top: 1rem;
+  left: 1rem;
+}
+.links a:nth-child(2) {
+  position: absolute;
+  text-decoration: none;
+  top: 1rem;
+  left: 10rem;
+}
+.links a:nth-child(3) {
+  position: absolute;
+  text-decoration: none;
+  top: 2rem;
+  left: 1rem;
+}
+.links a:nth-child(2) {
+  position: absolute;
+  text-decoration: none;
+  top: 1rem;
+  left: 10rem;
+}
+
+@media (max-width: 575.98px) {
+}

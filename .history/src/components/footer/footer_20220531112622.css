@@ -1,0 +1,43 @@
+.footer {
+  background-color: #f9fafb;
+  position: relative;
+  padding-bottom: 0.3rem;
+}
+.image img {
+  padding-top: 4rem;
+}
+.links a {
+  color: #667085;
+  text-decoration: none;
+  padding-top: 2rem;
+  padding-left: 2rem;
+  font-size: 1rem;
+  font-weight: 350;
+  padding-bottom: 4rem;
+}
+
+.foot-small {
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+  border-top: 1px solid rgb(206, 203, 203);
+  padding-left: 7.25rem;
+  color: #667085;
+  font-size: 1rem;
+  font-weight: 350;
+}
+
+.terms {
+  padding-right: 10.25rem;
+}
+.terms a {
+  margin-left: 2rem;
+  color: #667085;
+  text-decoration: none;
+}
+@media (max-width: 575.98px) {
+  .image img {
+    position: absolute;
+  top: px;
+  left: 10px;
+}
+}
