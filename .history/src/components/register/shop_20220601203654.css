@@ -1,0 +1,20 @@
+.cont {
+  background: linear-gradient(45deg, #282210 0%, #474d67 100%);
+}
+.shop {
+  padding: 0 !important;
+  margin: 0 !important;
+  margin-left:4rem !important;
+}
+.stars{
+  padding-top: 14rem;
+}
+.content{
+  color: white;
+  width: 33rem;
+}
+.content h1{
+  font-size: 3.75rem;
+  margin-bottom: 1.5rem;
+}
+.
