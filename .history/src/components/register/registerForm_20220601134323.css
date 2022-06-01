@@ -1,0 +1,17 @@
+/* error message display */
+.error-text{
+    color: red;
+}
+
+.form-container{
+    border: 1px solid red;
+    padding-left: 11.25rem;
+    padding-right: 11.1875rem;
+}
+
+
+
+.reg{
+    padding-top: 2.3125rem;
+    padding-bottom: 3rem;
+}

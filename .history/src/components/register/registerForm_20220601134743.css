@@ -1,0 +1,18 @@
+/* error message display */
+.error-text {
+  color: red;
+}
+
+.form-container {
+  border: 1px solid red;
+}
+
+.form-container h1{
+    text-align: center;
+    width: 28.5625rem;
+    background-color: rgb(21, 3, 3);
+}
+.reg {
+  padding-top: 2.3125rem;
+  padding-bottom: 3rem;
+}

@@ -1,0 +1,26 @@
+/* error message display */
+.error-text {
+  color: red;
+}
+
+.form-container {
+  border: 1px solid red;
+}
+
+.form-container h1 {
+  width: 28rem;
+  background-color: rgb(21, 3, 3);
+  padding-bottom: 2rem;
+}
+.reg {
+  padding-top: 2.3125rem;
+  padding-bottom: 3rem;
+}
+
+.register-form label {
+  font-size: 0.875rem;
+  padding-bottom: 0.375rem;
+}
+.register-form input{
+    
+}
