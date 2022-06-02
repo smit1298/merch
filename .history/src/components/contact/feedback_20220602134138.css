@@ -1,0 +1,41 @@
+.contact-bottom h6 {
+  color: #dba90f;
+  font-size: 1rem;
+  padding-bottom: 0.75rem;
+}
+.contact-bottom h1 {
+  font-size: 3rem;
+  width: 48rem;
+  color: #101828;
+  letter-spacing: -0.02em;
+  padding-bottom: 1rem;
+}
+.contact-bottom p {
+  padding-bottom: 6rem;
+  color: #667085;
+  font-size: 1.25rem;
+  font-weight: 350;
+}
+#feedback{
+    padding-bottom: 6rem;
+}
+.feedback{
+    background-color: #F5F7FF;
+    margin-left: 1.5rem;
+    width: 17.875rem;
+    height: 16.625rem;
+}
+.feedback img{
+    margin-top: 1.5rem;
+    margin-left: 1.5rem;
+    margin-bottom: 4rem;
+}
+.feedback h3{
+    font-size: 1.25rem;
+    font-weight: 400;
+    margin-left: 1.5rem;
+    margin-bottom: 0.5rem;
+}
+.feedback p{
+    margin-bottom: ;
+}

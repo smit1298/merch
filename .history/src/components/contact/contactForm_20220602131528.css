@@ -1,0 +1,70 @@
+.contact-head {
+  text-align: center;
+  padding-top: 6rem;
+}
+.contact-head h6 {
+  color: #dba90f;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+.contact-head h1 {
+  font-weight: 400;
+  font-size: 2.25rem;
+  line-height: 2.75rem;
+  text-align: center;
+  letter-spacing: -0.02em;
+  color: #101828;
+  padding-bottom: 1.25rem;
+}
+.contact-head p {
+  color: #667085;
+  font-weight: 350;
+  font-size: 1.25rem;
+  line-height: 1.875rem;
+}
+
+.contact-form {
+  padding-top: 4rem;
+  padding-left: 25rem;
+  color: #344054/*  */
+;
+}
+.contact-form input {
+  height: 3rem;
+  background: #ffffff;
+
+  border: 1px solid #d0d5dd;
+
+  box-shadow: 0px 1px 2px rgba(16, 24, 40, 0.05);
+  border-radius: 8px;
+}
+
+#firstname input {
+  width: 14rem;
+}
+#lastname input {
+  width: 14rem;
+}
+#email input {
+  width: 31rem;
+}
+.phone {
+  width: 31rem !important;
+}
+#message input {
+  height: 8rem;
+  width: 31rem;
+}
+.checked{
+
+}
+.checked input {
+  width: 1.25rem;
+  height: 1.25rem;
+  border: 1px solid #d0d5dd;
+  border-radius: 6px;
+  background: #FFFFFF;
+margin-right: 2rem;
+}

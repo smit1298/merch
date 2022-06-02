@@ -1,0 +1,13 @@
+.contact-head {
+  text-align: center;
+  padding-top: 6rem;
+}
+.contact-head h6 {
+  color: #dba90f;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+.contact-head h1 {
+}

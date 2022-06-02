@@ -1,0 +1,29 @@
+.contact-head {
+  text-align: center;
+  padding-top: 6rem;
+}
+.contact-head h6 {
+  color: #dba90f;
+  font-size: 1rem;
+  font-weight: 600;
+  line-height: 1.5rem;
+  padding-bottom: 0.75rem;
+}
+.contact-head h1 {
+
+width: 768px;
+height: 44px;
+
+font-family: 'Campton';
+font-style: normal;
+font-weight: 400;
+font-size: 36px;
+line-height: 44px;
+/* identical to box height, or 122% */
+
+text-align: center;
+letter-spacing: -0.02em;
+
+/* Gray/900 */
+
+color: #101828;}
