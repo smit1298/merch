@@ -1,0 +1,88 @@
+.contact-bottom h6 {
+  color: #dba90f;
+  font-size: 1rem;
+  padding-bottom: 0.75rem;
+}
+.contact-bottom h1 {
+  font-size: 3rem;
+  width: 48rem;
+  color: #101828;
+  letter-spacing: -0.02em;
+  padding-bottom: 1rem;
+}
+.contact-bottom p {
+  padding-bottom: 6rem;
+  color: #667085;
+  font-size: 1.25rem;
+  font-weight: 350;
+}
+#feedback {
+  padding-bottom: 6rem;
+}
+.feedback {
+  background-color: #f5f7ff;
+  margin-left: 1.5rem;
+  width: 17.875rem;
+  height: 16.625rem;
+}
+.feedback img {
+  margin-top: 1.5rem;
+  margin-left: 1.5rem;
+  margin-bottom: 4rem;
+}
+.feedback h3 {
+  font-size: 1.25rem;
+  font-weight: 400;
+  margin-left: 1.5rem;
+  margin-bottom: 0.5rem;
+}
+.feedback p {
+  margin-bottom: 1.25rem;
+  margin-left: 1.5rem;
+  font-size: 1rem;
+  font-weight: 350;
+}
+.feedback-img {
+  display: none;
+}
+
+.feedback a {
+  color: #566bd9;
+  margin-left: 1.5rem;
+  margin-bottom: 1.5rem;
+  font-size: 0.9rem;
+}
+
+@media (max-width: 556.98px) {
+  .contact-bottom {
+    width: 18rem;
+    border: 1px solid red;
+    padding-bottom: 0rem;
+  }
+  .contact-bottom h6 {
+    margin-left: 1rem;
+  }
+  .contact-bottom h1 {
+    font-size: 1.575rem;
+    width: 19rem;
+  }
+  .contact-bottom p {
+    padding-bottom: 1rem;
+  }
+  .feedback-img {
+    display: block;
+    padding-top: 1rem;
+    padding-bottom: 2rem;
+  }
+  .feedback-img img {
+    width: 18rem;
+  }
+  .feedbacks {
+    width: 18rem;
+    padding-left: 1rem;
+  }
+  .feedback-cont {
+    padding-left: 1rem !important;
+    width: 16rem;
+  }
+}
