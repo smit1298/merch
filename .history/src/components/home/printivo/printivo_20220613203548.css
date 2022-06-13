@@ -1,0 +1,35 @@
+ .printivo-conts {
+  background-color: #eceffe;
+}
+.printivo{
+  display: flex;
+  /* margin: 107px 0; */
+}
+ .growing{
+  margin-left: 117px;
+}
+.growing{
+  margin-left: 117px;
+}
+.printivo-img{
+  margin-right: 117px;
+  background-color: red;
+}
+.printivo-img img{
+  padding-right: 56px;
+} */
+
+@media (max-width: 556.98px) {
+  /* .printivo {
+    display: block;
+  }
+  .growing{
+      background-color: #eceffe;
+
+  }
+  .grow-para p{
+        margin: 9px 4.5px 37px 4.5px;
+
+  } */
+  
+}

@@ -1,0 +1,45 @@
+@media (max-width: 575.98px) {
+  .foot-logo {
+    margin-left: 43px;
+    margin-top: 43px;
+  }
+
+  .footlink {
+    margin-left: 43px;
+  }
+  .links .overview {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    margin-left: 1rem;
+  }
+  .foot-small {
+    margin-top: 2rem;
+    font-weight: 350;
+    font-size: 16px;
+    line-height: 24px;
+    display: block;
+    color: #98a2b3;
+    border-top: 1px solid grey;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+  }
+  .rights {
+    /* height: 24px; */
+    font-family: "Campton";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    word-spacing: ;
+  }
+
+  .terms {
+    margin-left: 1.5rem;
+    text-decoration: none;
+    color: #98a2b3;
+  }
+}

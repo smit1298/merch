@@ -1,0 +1,43 @@
+.printivo-conts {
+  background-color: #eceffe;
+}
+/* .printivo {
+  display: flex;
+}
+.growing {
+  margin-left: 117px;
+  margin: 107px 0;
+}
+.printivo-img {
+  margin-right: 117px;
+  margin-top: 81px;
+}
+.printivo-img img {
+  padding-right: 56px;
+}
+.growing {
+  margin-left: 117px;
+} */
+
+@media screen only and () (max-width: 556.98px) {
+  .printivo {
+    display: block;
+  }
+.growing {
+    margin: 0px 4.5px 37px 2.5px;
+    margin-top: 96px;
+    font-size: 20px;
+  }
+    /* 
+  .printivo-img {
+    margin-right: 117px;
+    margin-top: 81px;
+    display: none;
+  }
+  .printivo-img img {
+    padding-right: 56px;
+  }
+  .growing {
+    margin-left: 117px;
+  } */
+}

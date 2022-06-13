@@ -1,0 +1,7 @@
+@media only screen and (min-width: ) (max-width: 576px){
+.hero-all{
+  background-color: red;
+  display: flex;
+  flex-direction: column;
+}
+}

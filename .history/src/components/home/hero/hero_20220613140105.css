@@ -1,0 +1,114 @@
+* {
+  font-family: "Campton", sans-serif;
+}
+.hero-all {
+  background: #f9fafb;
+  display: flex;
+}
+ 
+
+  .left {
+    margin: 0 7px;
+    
+  }
+
+
+  .one-paragraph {
+    margin: 31px 0;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    border-radius: 16px;
+    background: #f1ebda;
+    padding: 4px 10px 4px 4px;
+    width: fit-content;
+    color: #dba90f;
+  }
+
+  .first-para {
+    border-radius: 16px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+  }
+  .what,
+  .get {
+    margin: 0;
+    white-space: nowrap;
+  }
+  .second-para {
+    padding: 2px 0px;
+  }
+  .produce {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+  }
+  .design {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+  }
+ 
+
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+  .hero-all {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .left {
+    margin: 0 7px;
+  }
+  .one-paragraph {
+    margin: 31px 0;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    gap: 8px;
+    font-weight: 600;
+    border-radius: 16px;
+    background: #f1ebda;
+    padding: 4px 10px 4px 4px;
+    width: fit-content;
+    color: #dba90f;
+  }
+
+  .first-para {
+    border-radius: 16px;
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px 8px;
+  }
+  .what,
+  .get {
+    margin: 0;
+    white-space: nowrap;
+  }
+  .second-para {
+    padding: 2px 0px;
+  }
+  .produce {
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 40px;
+    letter-spacing: -0.02em;
+  }
+  .design {
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+  }
+  .products{
+    display: none;
+  }
+}

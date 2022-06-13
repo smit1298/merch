@@ -1,0 +1,14 @@
+.hero-all{
+  @media only screen and (min-width: 320px) and (max-width: 576px) {
+  .hero-all {
+    background: #f9fafb;
+    display: flex;
+    flex-direction: column;
+  }
+  .one-paragraph {
+    margin-top: 163px;
+    display: flex;
+    font-size: 12px;
+    gap: 20px;
+  }
+}

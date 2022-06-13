@@ -1,0 +1,31 @@
+.hero-all {
+  background: #f9fafb;
+}
+
+@media only screen and (min-width: 320px) and (max-width: 576px) {
+  .hero-all {
+    display: flex;
+    flex-direction: column;
+  }
+  .one-paragraph {
+    margin-top: 110px;
+    display: flex;
+    font-size: 12px;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    font-weight: 600;
+    border-radius: 16px;
+    background: #f1ebda;
+    vertical-align: middle;
+    padding-top: 0.5rem;
+    color: #DBA90F;
+  }
+
+  .first-para {
+    border-radius: 16px;
+    background-color: white;
+    width: 30%;
+    text-align: center;
+  }
+}

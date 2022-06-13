@@ -1,0 +1,42 @@
+.benefit {
+  padding-top: 6rem;
+  padding-bottom: 4rem;
+}
+.benefit h6 {
+  color: #dba90f;
+}
+.benefit p {
+  color: #667085;
+}
+.benefit-cont {
+  /* width: 26rem; */
+  margin-bottom: 1.5rem;
+}
+
+.benefit-cont h3 {
+  font-size: 1.25rem;
+  font-weight: 400;
+}
+
+.benefit-cont p {
+  margin-left: 1rem;
+  /* width: 24rem; */
+  font-size: 1rem;
+  font-weight: 300;
+  color: #667085;
+}
+
+@media (max-width: 556.98px) {
+  .benefit-cont {
+    width:   338px;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+
+  }
+  /* .benefit-cont p {
+    width: 338px;
+    text-align: center;
+    justify-content: center;
+  } */
+}

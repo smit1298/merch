@@ -1,0 +1,22 @@
+@media (max-width: 575.98px) {
+  .foot-logo {
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  .footlink {
+    text-align: center;
+  }
+  .links .overview {
+    text-decoration: none;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+    color: #667085;
+    margin-left: 1rem;
+  }
+  foot-small{
+    
+  }
+}

@@ -1,0 +1,41 @@
+.real {
+  background-color: #fefaec;
+  width: fit-content;
+}
+.chateau {
+  background-color: #fefaec;
+  padding: 0;
+  margin: 0;
+}
+.all {
+  margin: 0;
+  padding: 0;
+  padding-top: 6rem;
+}
+.chateau-img img {
+  padding-bottom: 2rem;
+  background: #fefaec;
+}
+
+.quote > h3 {
+  width: fit-content;
+  height: 7.125rem;
+  font-size: 1.625rem;
+  font-weight: 400;
+  letter-spacing: 0.02rem;
+}
+
+.quote > img {
+  padding-bottom: 2rem;
+}
+
+/* Small devices (landscape phones, less than 557px) */
+@media screen only and () (max-width: 556.98px) {
+  .all{
+    /* width: fit-content; */
+  }
+  .quote > img {
+    padding-top: 10rem;
+    font-size: 1.5rem;
+  }
+}

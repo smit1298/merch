@@ -1,0 +1,13 @@
+@media (max-width: 575.98px) {
+  .foot-logo {
+    text-align: center;
+    margin-top: 1rem;
+  }
+
+  .footlink {
+    text-align: center;
+  }
+  .links a{
+    text-decoration: none;
+  }
+}
