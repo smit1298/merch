@@ -17,7 +17,7 @@ function Chateau() {
                 really awesome brand items that are easily recognisiable and
                 what we represent as a brand, i will always use them.
               </h3>
-              <img src="./Assets/images/osonuga.png" alt="osonuga" />
+              <img src="./Assets/images/Osonuga.png" alt="osonuga" />
               <h4>Osonuga Oluwatobi</h4>
               <p>Managing Director / Chateau Royal</p>
             </div>

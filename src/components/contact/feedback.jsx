@@ -34,7 +34,7 @@ function Feedback() {
             name="Sales Chat"
             description="Speak to our friendly team."
             contact="sales@merchs.xyz"
-            link="#"
+            link="mailto: contact@merchs.xyz"
           />
         </Col>
         <Col className="feedback col-lg-3">
@@ -44,7 +44,7 @@ function Feedback() {
             name="Support Chat"
             description="We’re here to help."
             contact="contact@merchs.xyz"
-            link="#"
+            link="mailto: contact@merchs.xyz"
           />
         </Col>
         <Col className="feedback col-lg-3">
@@ -62,7 +62,7 @@ function Feedback() {
             Image="./Assets/icons/call.png"
             title="Call us"
             name="Support Chat"
-            description="Mon-Fri from 8am to 5pm."
+            description="Mon-Fri from 8am to 5pm"
             contact="+234 812 318 7053"
             link="tel: +2348123187053"
           />

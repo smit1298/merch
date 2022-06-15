@@ -40,7 +40,6 @@ function features() {
       <Row className=" bottom plattform">
         <Col className="second plattform-cont mb-1">
           <Details
-            className="plat-detail"
             platform=" feature-cont ms-2  plat-details"
             Image="./Assets/icons/integration.png"
             name="plattform integration"
@@ -51,7 +50,7 @@ function features() {
               "Direct Integration with the Apple Store",
               "Direct Integration with the Google Play Store"
             ]}
-            Gif="./Assets/images/Plattform.gif"
+            Gif="./Assets/images/plattform.gif"
           />
         </Col>
       </Row>
@@ -69,7 +68,7 @@ function features() {
               "No Fee",
               "Use the custom domain anywhere"
             ]}
-            Gif="./Assets/images/Domain.gif"
+            Gif="./Assets/images/domain.gif"
           />
         </Col>
       </Row>

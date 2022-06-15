@@ -25,6 +25,7 @@
 
 .feature-cont {
   padding-left: 1.5rem;
+  gap: 5rem;
   display: flex;
   justify-content: space-between;
   /* flex-direction: column; */
@@ -33,14 +34,7 @@
 .plat-details {
   flex-direction: row-reverse;
 }
-.plat-detail {
-  margin-left: 6rem;
-}
 
-/* .plattform {
-  flex-direction: row-reverse !important;
-  display: none;
-} */
 
 .feature-cont > img {
   padding-bottom: 1.5rem;
@@ -101,6 +95,7 @@
   .feature-cont {
     display: block;
     padding: 0;
+    gap: 2rem;
     max-width: max-content;
   }
 

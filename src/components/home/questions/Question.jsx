@@ -81,9 +81,9 @@ const Question = () => {
           <div className="avatar justify-content-center d-flex">
             <div className="img">
               <img src="./Assets/images/avatar1.png" alt="avatar1" />
-              <img src="./Assets/images/avatar2.png" alt="avatar2" />
-              <img src="./Assets/images/avatar3.png" alt="avatar3" />
-              <img src="./Assets/images/avatar4.png" alt="avatar4" />
+              <img src="./Assets/images/Avatar2.png" alt="avatar2" />
+              <img src="./Assets/images/Avatar3.png" alt="avatar3" />
+              <img src="./Assets/images/Avatar4.png" alt="avatar4" />
             </div>
           </div>
           <div className="questions">
