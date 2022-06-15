@@ -18,7 +18,7 @@ function image() {
         <Row>
           <div className="media-scroller snaps-inline mt-5 mb-4">
             <div className="media-element">
-              <img src="./Assets/images/sportinglagos.jpg" alt="sporting" />
+              <img src="./Assets/images/sportingLagos.jpg" alt="sporting" />
             </div>
             <div className="media-element">
               <img src="./Assets/images/chateau.jpg" alt="chateau" />

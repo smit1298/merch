@@ -64,7 +64,7 @@ function Feedback() {
             name="Support Chat"
             description="Mon-Fri from 8am to 5pm."
             contact="+234 812 318 7053"
-            link="tel: +234 812 318 7053"
+            link="tel: +2348123187053"
           />
         </Col>
       </Row>

@@ -40,6 +40,7 @@ function features() {
       <Row className=" bottom plattform">
         <Col className="second plattform-cont mb-1">
           <Details
+            className="plat-detail"
             platform=" feature-cont ms-2  plat-details"
             Image="./Assets/icons/integration.png"
             name="plattform integration"
@@ -58,7 +59,7 @@ function features() {
       <Row className="bottom domain ">
         <Col className="third">
           <Details
-          platform="feature-cont ms-2"
+            platform="feature-cont ms-2"
             Image="./Assets/icons/Domain.png"
             name="custom domain"
             title="Custom Domain"

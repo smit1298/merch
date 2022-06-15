@@ -8,7 +8,7 @@ function feedbackDetail(props) {
         <img src={props.Image} alt={props.name} />
         <h3>{props.title}</h3>
         <p>{props.description}</p>
-        <Link className="feed-link" to={props.link}>{props.contact}</Link>
+        <a className="feed-link" href={props.link}>{props.contact}</a>
       </div>
     </>
   );
